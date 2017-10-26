@@ -1,4 +1,4 @@
-# flask-i18n-example
+# flask-babel-example
 
 ### 설치하기 
 ```
