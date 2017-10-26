@@ -1,0 +1,10 @@
+# Korean translations for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid "user_name_label"
+msgstr "사용자 이름 : "
+
+
+
